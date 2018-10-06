@@ -1,0 +1,36 @@
+#wrapper{
+	width: 1000px;
+	margin: 100px auto;
+	background: #f1f1f1;
+}
+.chat_wrapper{
+	width: 80%;
+	margin: auto;
+	
+}
+#chat{
+	min-height: 500px;
+	height: 500px;
+	overflow: auto;
+	padding: 30px;
+	background-color: #dab3ff;
+}
+
+
+.box{
+	width: 100%;
+	min-height: 100px;
+	height: 150px;
+}
+.panel
+{
+	margin: auto; 
+	width: 80%;
+	padding: 55px 10px 30px 0;
+
+}
+.msg{
+	width: 250px;
+	min-height:100px;
+	word-wrap:break-word;
+}
